@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.yourcompany.laxmaps",
+      "bundleIdentifier": "com.amirdaoudi.laxmaps",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
